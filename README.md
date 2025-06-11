@@ -35,7 +35,7 @@ Este proyecto crea un sistema de gestión de tutorías universitarias basado en 
 ## 🏛️ Arquitectura de 3 Capas
 
 <figure>
-  <img src="./docs/arquitectura-3-capas.png" alt="Diagrama arquitectura 3 capas" />
+  <img src="./doc/arquitectura-3-capas.png" alt="Diagrama arquitectura 3 capas" />
   <figcaption><em>Figura 1. Diagrama de la arquitectura en 3 capas.</em></figcaption>
 </figure>
 
